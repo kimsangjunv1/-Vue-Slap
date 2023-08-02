@@ -8,7 +8,6 @@ import { ref, onMounted } from "vue";
 
 onMounted(() => {
   console.log("메인이 마운트 되었습니다.");
-  alert("으악");
 });
 
 export default {
